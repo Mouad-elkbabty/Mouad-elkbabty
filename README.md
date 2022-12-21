@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Programming and web development
 
-- 🌱 I’m currently learning and getting more skills in more  Java and C , and all the IHM 
+- 🌱 I’m currently learning and getting more skills in  Java and C , and all the IHM 
 
 - 📫 How to reach me  @mouadelkbabty@gmail.com
 
