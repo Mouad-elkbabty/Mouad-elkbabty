@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning and getting more skills in more  Java and C , and all the IHM 
 - 
 - 📫 How to reach me  @mouadelkbabty@gmail.com
+-  My Twitter @Elkbabtymouad
+
 
 <!---
 Mouad-elkbabty/Mouad-elkbabty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
